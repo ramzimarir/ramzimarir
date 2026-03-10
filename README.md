@@ -1,5 +1,5 @@
 <h1 align="center">Ramzi Marir</h1>
-<h3 align="center">AI & Data Engineering · M2 UPEC Paris</h3>
+<h3 align="center">AI & Data Engineer · M2 UPEC Paris</h3>
 
 <p align="center">
 Building intelligent systems at the intersection of Data Engineering and AI. 
@@ -104,8 +104,5 @@ Best result: **LSTM — 91.4% accuracy @ 50ms tolerance**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=ramzimarir&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzimarir&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramzimarir&theme=github-dark&hide_border=true"/>
 </p>
