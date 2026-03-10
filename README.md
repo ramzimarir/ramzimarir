@@ -8,7 +8,7 @@ From raw data to deployed models.
 </p>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ramzimarir">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/ramzi-marir-b6a08b38b">LinkedIn</a> ·
   <a href="https://github.com/ramzimarir">GitHub</a>
 </p>
 
@@ -100,9 +100,9 @@ Best result: **LSTM — 91.4% accuracy @ 50ms tolerance**
 `PyTorch` `LSTM` `TCN` `CNN` `IMU signals` `Research`
 
 ---
-
+ <!--- and 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ramzimarir&theme=github-dark&hide_border=true"/>
-</p>
+</p>--->
