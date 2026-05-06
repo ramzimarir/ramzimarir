@@ -9,7 +9,7 @@ From raw data to deployed models.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ramzi-marir-b6a08b38b">LinkedIn</a> ·
-  <a href="https://github.com/ramzimarir">GitHub</a>
+  <a href="https://github.com/ramzimarir">GitHub</a> ·
   <a href="https://ramzimarir.netlify.app/">Portfolio</a>
 </p>
 
