@@ -1,5 +1,5 @@
 <h1 align="center">Ramzi Marir</h1>
-<h3 align="center">AI & Data Engineer · M2 UPEC Paris</h3>
+<h3 align="center">AI & Data Engineer  ·  Paris</h3>
 
 <p align="center">
 Building intelligent systems at the intersection of Data Engineering and AI. 
